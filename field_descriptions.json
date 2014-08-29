@@ -1,0 +1,8 @@
+[
+    {"field":"episodeNumber","datatype":"time","type":"integer","unique":true},
+    {"field":"season","datatype":"time","type":"integer","unique":true},
+    {"field":"ep","datatype":"time","type":"integer","unique":true},
+    {"field":"minute","datatype":"time","type":"integer","unique":true},
+    {"field":"second","datatype":"time","type":"integer","unique":true},
+    {"field":"searchstring","datatype":"searchstring","type":"text","unique":true}
+]
